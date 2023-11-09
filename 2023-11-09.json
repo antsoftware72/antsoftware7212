@@ -1,0 +1,26 @@
+{
+  "name": "Theodore Griffin",
+  "age": 34,
+  "address": {
+    "street": "Loca Extension",
+    "city": "Beopseb",
+    "state": "MO",
+    "zip": "00532"
+  },
+  "contact": {
+    "phone": "(706) 973-9400",
+    "servicePhone": "800641569"
+  },
+  "birthday": "1984-04-26T08:09:54.778Z",
+  "ip": "135.119.166.74",
+  "foo": "bar",
+  "profile": {
+    "about": "Desuil pepovoh maeg mebfojaro hucawofu rejakla rulevdod odeguj mi satgiswa zogakaro kika aze heje ewcod foub re forwaoj. Saobo doil noremwa par imopuscak suraceto pe pi usubitaf wak bah jajsu lu no botna az. Nitafvi kurozvam havicew ifo iteuvne gove sog azowa li lehmi ziuwajoj vudeh kug sam veam zedab eco.",
+    "bio": "Evavoga lagiwiv feg mo cikpokna cojbekab ho ebujap ahabi koztih sez huupuwim sutevej rezsimiw veb kenuke. Gubiaza ba hajfati jenu len lew fimzag im niwa ut ap lojcir. Rasub vi reku nojzusle ej fahik elaidefa vowko admatic inaufecil to azu vej jizlu kasbef bi wikad."
+  },
+  "apiKey": "e593e301c9bf089b3018e96d2823f46cc49687d9658a85213bec2eba33850390",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
