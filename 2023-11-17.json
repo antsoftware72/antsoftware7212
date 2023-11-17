@@ -1,0 +1,26 @@
+{
+  "name": "Hannah Hamilton",
+  "age": 43,
+  "address": {
+    "street": "Isru Grove",
+    "city": "Tuvveta",
+    "state": "NM",
+    "zip": "55857"
+  },
+  "contact": {
+    "phone": "(505) 633-2384",
+    "servicePhone": "800424918"
+  },
+  "birthday": "1969-03-29T13:34:31.558Z",
+  "ip": "82.146.150.187",
+  "foo": "bar",
+  "profile": {
+    "about": "Tuwosrug emwabup fokdap zisej iweorigac hibup uju kusloklu tozja ge tuuwale buab gis mellilpot vistoma. Sohzetrad purak boz ob moom kuuzaew topioza vugas ob ta ureunuwed cohanic. Buruh fubih peanu cid se dow jowlocow gapgoko nogci ugoewi pidwigi kur ifode cogpinlah sopofa.",
+    "bio": "Kafdaggi ca ju bu ruz hasob waimi ulrev zuw omoved ricakwoh zan hanim tuckuhze bopulwa. Uz ko gimdel icsuk lagoti cevlu humcos damab juabol hemif setoj fozagavot muile. Ge bu va jal top aciengeg taul mozcor ki omabowo ufrupse ilatushuh wa no pahgujun bifhup izo zaklev."
+  },
+  "apiKey": "c88d044ff2f7f4aad0ef15d0af97897a28112cca165fbe581e5acdc92c0b4b50",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
