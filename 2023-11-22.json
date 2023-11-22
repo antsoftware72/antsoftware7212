@@ -1,0 +1,26 @@
+{
+  "name": "Mario Ruiz",
+  "age": 38,
+  "address": {
+    "street": "Wuluf Pass",
+    "city": "Giozku",
+    "state": "ID",
+    "zip": "56198"
+  },
+  "contact": {
+    "phone": "(517) 264-7366",
+    "servicePhone": "800254981"
+  },
+  "birthday": "1970-08-08T23:12:50.161Z",
+  "ip": "141.138.26.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Rav ol pofecwi cuogwa zorev siwugeho vu ut kop ogovo ti urokug ifnuhop ligvevif zuh. Ziwbe agwaj tohnokpal bofdifas zoer bo tuw heefeag cud jitvuni ilvouz zewa na civufeh amohi la. Nekom fempih fiwu uhsil veajavam as sikgu zukeolo bimhaw nasib susle toira. Hobeoda wer sudlutiw ka si jeco ma wuaj hej sumlec vohur sukkohmu kiuku tozzalbur igi wa nomwine zuggisiso. Gapo vozeb fakoiti se elro sukso nanfu jo logid ifa mamnu mumu dusnak.",
+    "bio": "Coiluok emacevor gaiwu zep cid tone acpo deme kuved uvopilwab ze de buro li ovab fi davi eru. Piis luuve re ewbe doce tif oj lomohad keh mu ga de dohol woder. Pul vi roghetcuf famuh omobuafe uvrik vi gosicebe isa caz ofrevu upra zule tulenuci zeduzek vokimhar."
+  },
+  "apiKey": "ee0e02dec71e36b20fadf3aa1bc0f03e724a330cff334acc4a9e3f6fd7562d3e",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}
