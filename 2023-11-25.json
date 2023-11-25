@@ -1,0 +1,26 @@
+{
+  "name": "Steve Graves",
+  "age": 55,
+  "address": {
+    "street": "Bita Pike",
+    "city": "Jujnikagi",
+    "state": "MD",
+    "zip": "52065"
+  },
+  "contact": {
+    "phone": "(700) 349-7683",
+    "servicePhone": "800775635"
+  },
+  "birthday": "1990-11-08T15:26:24.645Z",
+  "ip": "201.111.36.97",
+  "foo": "bar",
+  "profile": {
+    "about": "Aw buj huc owaome ikvaci ev inopod fakonev mi fu jej habbib bewhona mi cifosa pajevija. Takiv hijisidej veoro up foriti monuj kih kojsaas gip awigge miwviklab nopfuf. Din cosa isaejje wa arepvez mav wa pegati hivoj cafwas fa fichek meni folav ko na zahig.",
+    "bio": "Du sefpemlo hi oni zevdos nivav ozfo hafid agcuoz ilfi buli zef oderowfen te. Wutucu pivilsod dobmat le wo deiwowil ir gefodsuc ren de iga gohu. Pom vog uz etumih kukaf ufava huju iloizac dated satabi kitava kofuzfo."
+  },
+  "apiKey": "80a85a94d9eac68016dadc4b7705532cfbdcbda42e467eb474144d10842743b7",
+  "currency": {
+    "code": "SHP",
+    "name": "Saint Helena Pound"
+  }
+}
