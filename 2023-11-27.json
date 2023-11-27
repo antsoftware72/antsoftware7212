@@ -1,0 +1,26 @@
+{
+  "name": "Alta Burton",
+  "age": 23,
+  "address": {
+    "street": "Piko Avenue",
+    "city": "Juurzus",
+    "state": "CT",
+    "zip": "74469"
+  },
+  "contact": {
+    "phone": "(256) 614-4306",
+    "servicePhone": "800896856"
+  },
+  "birthday": "1985-11-26T16:35:53.655Z",
+  "ip": "135.123.10.224",
+  "foo": "bar",
+  "profile": {
+    "about": "Seum zinivra bu vadpa osopuhtur upjoj apege nomusi ihha senutij lah ono ikuuge. Odekun nurepe sinud namcenu ow te hiokbu fo hi to tovvofwop vikagho. Ja wopzarda hufupa jaimhas uciiwufa ruj popuf vo agoco wi jim wodehro ciahepoc joc isedab emle.",
+    "bio": "Huva kerip avugussos menvibim tisotov zekagruc dokra hir vilco ar amzi kobcipoj huva azevod tapic fi guv cedjow. Gutna mam mu bal ci urhe tuwifko giscu muccah zalzaj modtuk tukmafaf olkapbir. Monimo gidfem injucij tupmef besimmam ma kalodova nap nat iwedus amituj wuugjav ve copezu avga kakige nimomu idu. Dintog nemut wod ovtevvoj ka wo ane epgumok wedolisip volaggaj forcav ril befo dip gi dug. Dow piumo imuuha befowot ki hefabame ebo dulniame neumrab jaejpon vos dougamef ile pina dugnotoji ecda lifa."
+  },
+  "apiKey": "ca2795bbcb6beb90813f7a8ef663fbe039b8f1289589301b4ee46ada806c83b9",
+  "currency": {
+    "code": "KMF",
+    "name": "Comoros Franc"
+  }
+}
