@@ -1,0 +1,26 @@
+{
+  "name": "Essie Barnes",
+  "age": 45,
+  "address": {
+    "street": "Nokkic Loop",
+    "city": "Iteozri",
+    "state": "NE",
+    "zip": "59124"
+  },
+  "contact": {
+    "phone": "(938) 208-7893",
+    "servicePhone": "800972445"
+  },
+  "birthday": "1988-02-15T21:17:23.805Z",
+  "ip": "198.234.241.110",
+  "foo": "bar",
+  "profile": {
+    "about": "Cu rulo rukjo vueja huad zokifta fe ka mium fewikuwok jemu asezag. Ga zat hoba mizi co ajeipiwep omupiw razibjoj wuh huwla jo tan saztan vudzasga sacuhloj hamege efloap. Jekdorog cet ij imohatzu iklaufi ni hu huda nijduh ji wok sojpa gidurij hawatora. Vodsube cunfi bu tutba addawu zo vaporloz boraj eboteti de ti topagnu naufe gu izeezuat muetasez. Pirujuc teripwo so pedwo pubemdeb rawuveve tilmoegi uw boizgem kukbowifu zi ur bivez dauw nik cedruk dejlamo vafeog. Fokokvim otwoiv adiup patoc joipoah kuer lah vih dob sampive rohib awuiwa. Owsuzaw ejamucoj de tup hiurli jinzumvij vujeh irta turav ger ifza ge ogoapujuc.",
+    "bio": "Cohekfa irujo vauveve pusvuzpu her elalitaco saf pepgotof cohe ovo tunravlu defaped. Fetel potevmi uzu hitieh ruvoza lo sapadi jezatipi sumak se gaw maf si la. Gatikker dib tife upvi sorsofwaz dovivfov tonabi hi tiaze fejsiz zatfen awemi kenup envub cuf riwapet. Cub mi rifededa lelhotso asawe jugho utgo ij ovu gokom uzfafum awi hu emusuih. Bokuh satumdu pubug subtan ul itugujja dozru warew bu degdaj cekigo lujzatol. Vat ne fu kezicses gowago eblepa kasa gigoke ebdiho jufo kufohno ufmoj tokobon."
+  },
+  "apiKey": "2796f9a500aa5203e3f7b2ac4ed2baf18c5b62babceb31443bd5a6ff06f168ba",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
