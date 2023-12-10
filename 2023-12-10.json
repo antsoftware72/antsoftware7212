@@ -1,0 +1,26 @@
+{
+  "name": "Tom Ellis",
+  "age": 61,
+  "address": {
+    "street": "Atta Point",
+    "city": "Cabiso",
+    "state": "FL",
+    "zip": "98909"
+  },
+  "contact": {
+    "phone": "(435) 462-8232",
+    "servicePhone": "800366653"
+  },
+  "birthday": "1986-10-08T04:41:07.386Z",
+  "ip": "211.130.0.122",
+  "foo": "bar",
+  "profile": {
+    "about": "Modojmi aki gumu ehutaak todu se doval joawafu cinucew uj awmuj kofluede fa kojivko za war. Ge popiod widezi kaijim nigluj eve huc egwis jugiceral wi bositeok maz safabpas. Samun ik biuwro nahezdi vuke vi sevem cibu ozahoz zup div abepeif dem ihi bebko sokatetu rinmok uc.",
+    "bio": "Jorulaanu jande hem towitul warzopa wani sam zimaddo apap lasal asjufibu lom afa garorkid zu jigiz uduto icu. Luj sak sum lesovege lamlilhu soslu kefzucili losiso bod su ferrig le cep saddedpo opcilkuw jucda. Nihowiw ri suzep jehojuv atcecu bopmu dewuvjib zihi po wal alded bokiv ekuhuzes."
+  },
+  "apiKey": "434efc89dbbcd6052932a5b05e1f7e9e597d220b76c2c523819d1ae8948d4766",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
