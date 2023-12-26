@@ -1,0 +1,26 @@
+{
+  "name": "Nina Phelps",
+  "age": 42,
+  "address": {
+    "street": "Ravdor Glen",
+    "city": "Geboveno",
+    "state": "ND",
+    "zip": "31799"
+  },
+  "contact": {
+    "phone": "(313) 826-1902",
+    "servicePhone": "800981415"
+  },
+  "birthday": "1989-11-22T11:17:16.025Z",
+  "ip": "36.184.156.93",
+  "foo": "bar",
+  "profile": {
+    "about": "Hemejal purihti danin ese holos pir kajef ihmap suvapaku ceunalum kihi lu fareboc nim ti pogolete. Noz wilodebu cer hafewco seeladoh udu biwepuhuc fobuplo cit bobkop ipeesu ke. Kameh pas bovme wedtine fovo wuneja tili visiza wevez feh evo hel lohivo if litrut. Hevil megjowgi jac dipi hof nunebig zempi uv fobtu giicma akifelnof obausiw sali. Hottus his joz nesfuzka zutin av kepubizo zu onca vomwemun lomtehit ressoc sahdeg suwalob hu tobdo ovze facdaho. Nuujnit ra lisegra veig ro ikelu veddupjem lamel ugoduoz pih ebozorah davti.",
+    "bio": "Gosbacej vo vihka hezrakjiw cetgis fukfider nosiwefa gawzofu usafiob aki mevo bowa zowgo ofnug kipoc. Fovaj kuji tazemum timun mumaje cinimpe vavhurro jul ruh mejife deha leko ki ici. Du cubdosip teuto jokzuf zifa ma wiopi ref biwcise dim gisri dofa orifed uw. Ze ureca zupocgo re jap ozaka siles gupebav itaus wilin iztun woddut oduab covjengem. Igwaabe umuilojag widsurezu joflitmib uk ore habet de doftukun tit aru vufida eluwilac."
+  },
+  "apiKey": "08696645cc15d2b7eff84166e805c00d881d4ca07c08149a461eee366a55bea7",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
