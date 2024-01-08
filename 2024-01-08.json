@@ -1,0 +1,26 @@
+{
+  "name": "Inez Neal",
+  "age": 54,
+  "address": {
+    "street": "Livug Center",
+    "city": "Jozkubnu",
+    "state": "IL",
+    "zip": "31270"
+  },
+  "contact": {
+    "phone": "(779) 900-3238",
+    "servicePhone": "800368363"
+  },
+  "birthday": "1964-05-24T04:22:25.931Z",
+  "ip": "88.25.234.138",
+  "foo": "bar",
+  "profile": {
+    "about": "Vaewi el betahi eh hufono aw nakiwa uvezube ki lawvamimo to ihisehes efas surtoupu. Reruwaz zagweuhe uhuhisuc cura widuj semiin odaataapi bozalu jumodir ozihogsem nezveta idojad meogvin bere bekja. Ul je zir owaehapo wacogfoz canablav caf vekaw an ijba fawape fibo jo.",
+    "bio": "Zarewvi hipsec fifohha erkugjip vo ilo cit caduhoto nazsel seola wufi tavba tadi katipib. We waw pekeb pufog ifu pejhiv ivcauj voasu vir aluuf vov bizo tidfa zonugsag maj curzusa mewcog. On hosci rizep zas ro va ocioc hiwuv wi hivbo duldik mub matot po po anero wermom. Ifu anoawo or oj kisha watpejdav kaestob iwazoj ogelor vanefe ah wimuhpun rivu za gogil ibo mo zo."
+  },
+  "apiKey": "1c9578a254e65566fb8b3570cfcfa69cbec29c02259bb10651b304b3d51f94f3",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
