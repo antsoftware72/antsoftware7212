@@ -1,0 +1,26 @@
+{
+  "name": "Richard Mack",
+  "age": 50,
+  "address": {
+    "street": "Gaoj Point",
+    "city": "Cemewora",
+    "state": "AL",
+    "zip": "96680"
+  },
+  "contact": {
+    "phone": "(218) 775-1321",
+    "servicePhone": "800597391"
+  },
+  "birthday": "2003-09-16T20:52:26.151Z",
+  "ip": "192.6.121.9",
+  "foo": "bar",
+  "profile": {
+    "about": "Saj limo hi ziknera uhesaz jobcafsa tullu fikahis owsap if ewueruse ku ejta ade sek hetal sileloki vipukefo. Adegaziru vican sula otunacep idiw ezcifju re jalbewtoz adehe madi ewkug lir ku cuwoov fa rotila. Bi ehi vakino wo pikdios lace iso kajemdo pofe zimovut givnoke zig ol kukusita vonda zuw. Zojiam zi osenero ruf acivpef fagis katgeb zarlaz sumamaruj odririb tavi guojga to mor kapid celgukeka.",
+    "bio": "Igivcoh aj utoko uh ve amewi ha faale big komak tunsuhihe luz. Tudosgij sub cindag geratmo be ruisu fus leag vac diho opecu raazeta haivewu taebik wes ope. Pil ogitukkoj hiz zetduwok ra hokoh osmeklog diva mielvug bunaz tipobe wezovto ne rag."
+  },
+  "apiKey": "ebf19115a06140a5429ab1245e265e9e40ffb7a75685bbc56588d68976c1fef1",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
