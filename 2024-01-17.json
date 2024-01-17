@@ -1,0 +1,26 @@
+{
+  "name": "Bill Powers",
+  "age": 41,
+  "address": {
+    "street": "Niwpi Park",
+    "city": "Muijjeh",
+    "state": "AL",
+    "zip": "83066"
+  },
+  "contact": {
+    "phone": "(510) 401-6629",
+    "servicePhone": "800837485"
+  },
+  "birthday": "1983-09-28T15:53:02.687Z",
+  "ip": "116.216.244.117",
+  "foo": "bar",
+  "profile": {
+    "about": "Gi emi gewofum amo kos bed wur uvobote ke mel sufo pajjan tuk hebboho kawce jemdaj dufrus te. Hodkepun ket buwuov ado adti fif vipraf okoho pacute sizukku pelar mudveg oki ojnocuk wicebodac war zaw. Odzu ajtiti sic geok mizik op iliure owiaw lakmave hec hiessi dinbunso ductefek depa naphe rumvutuz woof.",
+    "bio": "Ekesivow ivemiz igo nu ke zavekbud azemawew lufben iro gukdu geja vahu kusani wi. Jop te ciecebor lunuw cuclenefo ag fa enalbi zifze gejko tovmit piepela wak linhi hukta modum anpen. Gikmuzvu kemar icaacma sulohip heh eg kemete ez ruvuk kig juf zo uri usde vig civcu gom. Etivurbe bihcamken le gedoj benu morej kuw domleit te noh tanil usiivo vupu ummos cofjege ilnamo."
+  },
+  "apiKey": "789cc70635ed9afa00bf4ceae56e098a6ac364641b79f70521e80ed4290dc182",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}
