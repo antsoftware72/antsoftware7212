@@ -1,0 +1,26 @@
+{
+  "name": "Blake Rios",
+  "age": 33,
+  "address": {
+    "street": "Cuana Trail",
+    "city": "Silotiku",
+    "state": "IL",
+    "zip": "84919"
+  },
+  "contact": {
+    "phone": "(415) 528-2080",
+    "servicePhone": "800959989"
+  },
+  "birthday": "1984-01-08T13:14:37.010Z",
+  "ip": "224.96.19.74",
+  "foo": "bar",
+  "profile": {
+    "about": "Wisaj kogu ijuut ziosu cinupel lozumso cecvi goz pev ha ulupu li jamrec. Hobo ciate kekwopse ba kos mir canuduf bekho vudcemma sijbocmoj bow judmu goanu. Vigde kurug bofwejita eb atofo oji sogedad taw jisgev lorpodle uf micmuzu je hajav morot bu.",
+    "bio": "Afseh ujnatjor lecunab tu bakol pog falez sofjak tenfav somnama immav ol renbawer zah lu wuamatac lo. Saw kimnu jop seme livepa bit vehgut odkadahi wusepe mo tuzi hem. Becruv zuzce bal relahohem rur kocdew eru omingu mis dak te ocpezroh mif mickawvu. Zalal ho jeada liwjon wovti rewo cowzu fo ludhamu moworji kesgonave afsiv ruigtet mig lowjomul. Unvoedu zuegivo lofwufan tesceaw za moz gusenhuk wanrebmak zapaf hogel bu simtof owaaszum. Omi ad edecejor elogovha bov azi ruv mozaz duinja ejdoci mohucdi sukuvjid te ricsew. Dili niz ada mukeha sojizdeh ezjagbic tevgorod va kejev diovo ta teob."
+  },
+  "apiKey": "63b0ab75e4cb10239bde20cb03fc83e83274f8f197b68b438ef214db463a407f",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
