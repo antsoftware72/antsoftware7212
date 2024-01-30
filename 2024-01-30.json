@@ -1,0 +1,26 @@
+{
+  "name": "Jason Huff",
+  "age": 19,
+  "address": {
+    "street": "Nanfo Center",
+    "city": "Mafuplun",
+    "state": "VA",
+    "zip": "06492"
+  },
+  "contact": {
+    "phone": "(686) 263-1027",
+    "servicePhone": "800425968"
+  },
+  "birthday": "1965-01-09T04:59:27.537Z",
+  "ip": "23.86.157.215",
+  "foo": "bar",
+  "profile": {
+    "about": "Nowag cawejhaz ca neipo pejinuw bev azje nanap ha johejpuk hecvof ceezfu anuf van losli. Zojukehud metzef ko ge pagozih lofofdoc jawa jaj bo ah arkibof witaim. Wij tu luzim sanevdi hotek refmauva bo kuro idumesom vo je wem ola wuv regudo. Golelti ezu zaom loh ozra fad kusduckiv vaenabi pi fillip coembej ubeca giwo peacrud di dub. Ki ra duhuvu vuwos fajec ja tu fu zis fac hirmul futtoja dalpivu virodwu luzsa zu.",
+    "bio": "Te dijvuca ci reg ogebo dot zakegi gopwon dam sugetjut utru co ji fic ef biace upcetip suadiudi. Gi nempun ovfunka cihwit izdu fo ohu fewa fo so puamami ginsevda. Vais ataep reh gevos isarod milini ke kuc pi hosotiata bikgan hiv dorojubiz urugelni."
+  },
+  "apiKey": "b0ef844a52003e2755e3d2b5d1ada27576ba8af3a2040a6d93d2181bb9e95a3b",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
