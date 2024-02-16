@@ -1,0 +1,26 @@
+{
+  "name": "Mina Mason",
+  "age": 34,
+  "address": {
+    "street": "Nufe Drive",
+    "city": "Uheukodu",
+    "state": "NM",
+    "zip": "53206"
+  },
+  "contact": {
+    "phone": "(988) 790-7184",
+    "servicePhone": "800491698"
+  },
+  "birthday": "1981-12-06T10:26:49.083Z",
+  "ip": "75.104.185.14",
+  "foo": "bar",
+  "profile": {
+    "about": "Rupic un sohlamti hoh bivwobti rujdab roror bi cugil oli sof pozkiv muomige lezoztug liwak. Tar wuz pip ujaed zizkussub minakot litsiav orouv hecob gangecvow ejwokuva busovhu. Ve vepal fiz ugovijap lilhore viwbuw pamo ob rujez kija uruhuchih asadab der nadec vodafi wosdih kopfoz.",
+    "bio": "Vile negfunli uswiko gawennal fehas wihpe caw ucto vidsavis cednuw lipe luta ijurjuv wogji uzuv tophik ufdi fazkebatu. Lujera imhiaz hidziib hi mi ivehohol lujezko iwo gacufluh taswi obi suwu ogilolhek gikat it. Gusaki posilwu go elca nizana loli zu seevigu pivagasi hahiv za hetusmif puvuvag pafro ikemezfo."
+  },
+  "apiKey": "f9ce290b4b589d9c23522be5445b92ca9d5e9764451cc974af8913ccba15f058",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
