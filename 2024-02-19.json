@@ -1,0 +1,26 @@
+{
+  "name": "Ella Gordon",
+  "age": 18,
+  "address": {
+    "street": "Bechap Circle",
+    "city": "Jeeweem",
+    "state": "SC",
+    "zip": "14413"
+  },
+  "contact": {
+    "phone": "(728) 926-4444",
+    "servicePhone": "800491428"
+  },
+  "birthday": "1993-09-15T06:50:00.538Z",
+  "ip": "213.243.252.56",
+  "foo": "bar",
+  "profile": {
+    "about": "Fagavda wocemca fa aziwigma ap jehwofmat jubedabe filo cebpun kozeled lumulud guf isna esojejluc ujeg sovawiki mahanafoh. Pusfodos ubo vacup usnofzul nuvfawsog ecufilo ipa mafewona di wifpijil azu towma pofeli. Ocfurru tigovoj wawzokid japje vu ejhajos dazetfa opewot wu ja muc ir tanorez.",
+    "bio": "Senebjic mubuj zu gabur juzsa ujif burwuri ag kanamin valic dam bunrat cobuwi vi sutvibvab zawo kuvjefa. Aru miwegukes kof weg irpelwon tumniz safekam nec paiksa waufi citbe ku nu woci bihi joj of. Ulumu lesimu boimen luzevi fejtoha comusov osfotem visaz sa lefugdi pelokog kegul bazlaw ta te sajiv."
+  },
+  "apiKey": "552e01191fd20982e41d076418f04ea1167b7a8c9c7da8ffeafceecaf7ddee3f",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
