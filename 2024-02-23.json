@@ -1,0 +1,26 @@
+{
+  "name": "Terry Lucas",
+  "age": 56,
+  "address": {
+    "street": "Veke Junction",
+    "city": "Radzejdup",
+    "state": "CO",
+    "zip": "32538"
+  },
+  "contact": {
+    "phone": "(812) 204-9207",
+    "servicePhone": "800294525"
+  },
+  "birthday": "1990-09-30T18:38:15.458Z",
+  "ip": "91.194.252.190",
+  "foo": "bar",
+  "profile": {
+    "about": "Uzhe kioca ta fem bas dalupu kit jag go duzbo huca aw hezinjaw akfif. Zohvo kunrov rucisu uzirasu jaejifaf bawud puw luve na tawielo le apajo woffe pednitmel. Tiwje naj ne kepuvwem kuvolhuk poc tiwo ow mis owaonamo raasahu ved ve nurufze lipsuen pepuoho vinu.",
+    "bio": "Azojowra kiewuah uh pinrur re di doama faf sobip izeub jenoffa beje vu isoihoisi gik eboacijiz ufi jogaci. He piroptes op dajuvisih ji jiceug jiw ucgi as jumu soka ifase fakon aceneop. Jomte ule rosij ga zi zub hakeprel puhtud kuspuk cuvi igiogli pe hedhowluk medreac sehuvza is. Hovu wi gawdef emvap acburper togegor kiscilja sehma wid rosciz febuk vol taceji len jola peweg."
+  },
+  "apiKey": "cc106dbcefa890b4158ca240b1620c3a769b94909d1e2f85b1431cc23438fe85",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
