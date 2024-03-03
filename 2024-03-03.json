@@ -1,0 +1,26 @@
+{
+  "name": "Dustin Cooper",
+  "age": 35,
+  "address": {
+    "street": "Wufha Plaza",
+    "city": "Viljetwa",
+    "state": "WY",
+    "zip": "55503"
+  },
+  "contact": {
+    "phone": "(708) 821-1095",
+    "servicePhone": "800233879"
+  },
+  "birthday": "1999-01-10T10:13:04.267Z",
+  "ip": "192.142.59.107",
+  "foo": "bar",
+  "profile": {
+    "about": "He kih os vinum mam mehgul bodbul cic tiow wurjueze coswij jaamo. Golifaze rakrudko pobvu ok givzad depraj lacme div mipi ulceblu no ruvvaid wahvafgis. Fulvoci tamemed unoogo esi koeze juarluf huguhel evvipruk ziwu midese jeagcew adrid hulse amoelagih piave waibo hi.",
+    "bio": "Giuso tozogu homdajo ojko ot bi fafaduz ulcivec lo vot va pechaka kokveivu keckal ponoji icadituw luzegroz. Taodib hi lid ujuvo iwuga cufjar boha vecdeda wefufu zajwaka lasevebif ertipsi. Kere nizofa nuk mecgalcu zumu diezina sedunto kohuf bogjipop hujezmu ofulif go awomi leve usujanun vo efpip. Bav zu uza soj jat vo jifmebe wud naegafov sopor jatsev ceka. Zuptak isouvsa toffiim kate salirimu wosuldu asa ga acu ku poz tap zo kewpemze sises fusawca. Pupuso fo risipe fak kedzab mezifiw miwutro ewora aruoz mir ota vipsupa ac rudev metuma vub nigloh. Cousem kuwhu si iwdar ke sihatew rofmeb rosuri ga riw igapore ratug eki arfaba fah sud aj datimi."
+  },
+  "apiKey": "5111e7ac228bc0c905d1a743a6a6655a1ec9742aabaddfe04adfb9e08a0ee35e",
+  "currency": {
+    "code": "UZS",
+    "name": "Uzbekistan Som"
+  }
+}
