@@ -1,0 +1,26 @@
+{
+  "name": "John Baldwin",
+  "age": 50,
+  "address": {
+    "street": "Mozci Lane",
+    "city": "Otobafih",
+    "state": "MD",
+    "zip": "40253"
+  },
+  "contact": {
+    "phone": "(675) 855-9475",
+    "servicePhone": "800318583"
+  },
+  "birthday": "1999-12-26T16:11:58.435Z",
+  "ip": "113.224.38.171",
+  "foo": "bar",
+  "profile": {
+    "about": "Dulet lotjepoh ujwe zu ivodi gouzikor nuhaj ipa wiz ru tuzmuf bitanezu guvuz tegwusi fuzeoh. Ji winu bu noukeac rotsep sonun pa nulmocus catijil guhlez ir finag nejtiwla. Ku cowluko nefo poag vivo zitakaz lebeme ufsaf ib ejetes rotupi podofoj dodafa ru hoj rutuguf elna samcibut. Na akinaluc juw ine zos ba to setde cejapzak rov feklozib turocewag igar zodrocfij buvumfe ec.",
+    "bio": "Zu ma lonu nocgaska riw val regmeh nurni goosruc vov ufkes no. Bo gezeh pocur nefiwged dignusrik lerzu fosicaasa nefizoma usmip vo zi omaunwi muvga curvifi gopekfi zusto be. Cicicok ocuter oho muam umu feotpa lirjim wo horac timupiz liwek tehsot wab wodir. Dasnevwu nofop dugbag najvuki wacafcu pik maujewo zi lidu cupunvo savib dic di."
+  },
+  "apiKey": "3cff7b70dc0509f9cbd23b724cab9a8c5df02e0f1210f8644af3671c7a379099",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
