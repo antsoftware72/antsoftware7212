@@ -1,0 +1,26 @@
+{
+  "name": "Herbert Poole",
+  "age": 43,
+  "address": {
+    "street": "Ihejo Place",
+    "city": "Bipekup",
+    "state": "UT",
+    "zip": "34590"
+  },
+  "contact": {
+    "phone": "(387) 393-6159",
+    "servicePhone": "800625846"
+  },
+  "birthday": "1978-11-11T04:54:27.348Z",
+  "ip": "96.36.138.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Tes orucufa kifeg ebopot hip ojic vohconvo itadka rew nu iwi adku. Lamozwa ka tuh ti fuutugu gocu cilelov zoc hu tesku nouno ib viklo. Zarepcon zovpolma zi okuw nuas zewluf aka canifade suvtim zap nil lojal fijofe. Edkesa za guzu jukjaco hajrep da son avca col wi koal fumi ojejok utu eki. Vafujvor ifeldis pew suot suc uvadi jetow bapit uri cakkepde rioga meamu lasziw nar reumi acuhu okogi re. Ake lunfeziw imoapfi oktuliz ked sutarmu afgomace amo zome ef nim licrakut zozemed pac heseliv.",
+    "bio": "Totsooze zutfirze duh ow mewreg jeew vibroso in roj navo sorlizop hubvulfa. Mikcekem votmu fabe ti so matowi az jugjid robosnir cilazi cepsidka ta. Wuvhi go felar ketoci boz zo fodpov ve ofpaskiz becictig nurogeh pere. Gu zalef cak jivrag zunwehub vim vepit fazor hud val vipega zop fepinvi wo. Jageis mul sues gu va of waeb fi up gucbew gummoj cocgetu."
+  },
+  "apiKey": "653c0004d22ba6d720c8cb0c6691301811c469cda882714f1635df9da4ea3ae4",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
