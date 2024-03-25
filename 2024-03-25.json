@@ -1,0 +1,26 @@
+{
+  "name": "Charles Hogan",
+  "age": 34,
+  "address": {
+    "street": "Tiah Street",
+    "city": "Ogrevhac",
+    "state": "DE",
+    "zip": "19716"
+  },
+  "contact": {
+    "phone": "(946) 883-1099",
+    "servicePhone": "800312815"
+  },
+  "birthday": "1998-06-12T09:02:55.944Z",
+  "ip": "130.92.115.42",
+  "foo": "bar",
+  "profile": {
+    "about": "Curosle dizkan hohsev pi fod odamorum oz omi efzawbos tuwfa denawob gerer. Somda hoete westot mo ej bewzef beg gazudo re jof mosunbuw etoiwbip omsezce becnu mahopwa ik. Zajwiis did ju ifotaji du wot pug tu uwhu da meam gibupzib jebfu vojehme ilimerfa butone sifu. Li ji cab huhim cid noavti bewwu idami foelofic ze ruh otpiz nujihsoh he tuf rosfa. Jepjivjuv pakha lesif fak ladci utamo gad do zahjofi begsevep ik kifuwedo cozutil. Bekcobtez fuwouw vocej uvozi martobra bi no ji wisedake ofu mafkep zucgop dofho nicmisi.",
+    "bio": "Pi hafok huvmadod esehiz va rahpurje foiwidu cufe nuku rubmoce cathugat lufu pek og li. Kufner runava waz il puhciov soplusver lidudne hupno hekuhoj potow suwik lel rusa otuengu. Ehpetris hi jojhaw apotijih vifzerbu nitenu poni web riez ezma ifmis ovuicu ter vekirir vufzidi kigwuuz. Gic tisocjun uva lug evvapo wi isi jutun litaf fe ro temhe ra esvur."
+  },
+  "apiKey": "7d4719739af37b5af3d4362d174ea658430cabc132f86b90ab8713aee52c48ec",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
