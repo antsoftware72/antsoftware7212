@@ -1,0 +1,26 @@
+{
+  "name": "Keith Sullivan",
+  "age": 19,
+  "address": {
+    "street": "Gewek Square",
+    "city": "Melzaha",
+    "state": "ND",
+    "zip": "16329"
+  },
+  "contact": {
+    "phone": "(946) 656-2131",
+    "servicePhone": "800537181"
+  },
+  "birthday": "2002-01-22T20:39:06.948Z",
+  "ip": "171.119.98.244",
+  "foo": "bar",
+  "profile": {
+    "about": "Gove ha posro isu ew igaeko rahenog fi bakge ceg ligadja vogmu zutugoha isuhovfo tenzipare comfewig zeefhu tewdu. Kekehodo mu uceduif dup lago vebset siraf woaz ofro tefakfev etihowoj vagcunun. Votnepapu fe avulok pefveb wabu naonza wamkonip zan agudor orked optis til vel ude lin rarjipi jirfe. Dobo ovsigo owifig kafismup adibo pufij to jep to kih diver oji hijlaci. Bu fanewepu daf jez gudgafwa nuho cimekbej reno mobpek litpun hisewa bukenpuk.",
+    "bio": "Ajov ini ji celvujcu osukik vanobagu dotivnug rawa bice hebone lacanu zogal ze. Mot gusowine cu kevi jagfu esi poohsec mo dubgozoc omo ilujek kohkul neci gifudek zuv watvu solatif. Igit uce ak are lik nomuj gihgod mik eti motzeji jivwuv hiri ub eccuhoz sokenriv div gowo gel. Fih zol difzojon pofkize oz las sug fapuwianu bohakucoz wemomka uvwehiw ben temuw tuhol wes gekifzan bag."
+  },
+  "apiKey": "87fde3921464d234b82e85e13dd826fe5e4fb1cd46501c3ca2689d3ecc3021f4",
+  "currency": {
+    "code": "PGK",
+    "name": "Papua New Guinea Kina"
+  }
+}
